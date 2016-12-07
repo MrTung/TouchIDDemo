@@ -14,6 +14,6 @@ TouchID
         NSLog(@"fail");
 
 ![image](https://github.com/MrTung/TouchIDDemo/blob/master/TouchIDDemo/Screenshots/1.png?raw=true)
-![image](https://github.com/MrTung/TouchIDDemo/blob/master/TouchIDDemo/Screenshots/2.png?raw=true)
-![image](https://github.com/MrTung/TouchIDDemo/blob/master/TouchIDDemo/Screenshots/3.png?raw=true)
+![image](https://github.com/MrTung/TouchIDDemo/blob/master/TouchIDDemo/Screenshots/2.PNG?raw=true)
+![image](https://github.com/MrTung/TouchIDDemo/blob/master/TouchIDDemo/Screenshots/3.PNG?raw=true)
 
